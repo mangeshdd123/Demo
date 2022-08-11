@@ -24,8 +24,7 @@ public class HomePageTest extends BaseTest{
 		
 		
 		hp.adminMenu();
-		sa.assertFalse(true);
-		sa.assertAll();
+		
 		
 	}
 	@Test (priority=2)
